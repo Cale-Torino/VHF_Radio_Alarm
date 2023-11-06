@@ -1,8 +1,12 @@
 # Old VHF Radio Alarm
 
+[<img src="img/mild_clean_up.JPG" width="500"/>](img/mild_clean_up.JPG)
+
 RDC TX-5000 (aka TX5 Old).
 
 Uses **SABRE** frequencies for alarm systems **VHF** `140.5-141.0` & **VHF** `152.05-152.5`.
+
+[<img src="img/alarms_frequency.png" width="500"/>](img/alarms_frequency.png)
 
 This particular version uses 12v and has 4 outputs for triggering sensors.
 
