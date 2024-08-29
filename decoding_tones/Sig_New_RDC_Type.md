@@ -64,3 +64,6 @@ RAW DATA
 ## Links
 - https://www.securitysa.com/regular.aspx?pklregularid=2595
 - https://www.securitysa.com/regular.aspx?pklregularid=2680
+- https://ludens.cl/Electron/fts8/fts8.html
+- https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
+- http://sm0vpo.altervista.org/pic/ctcss_01.htm
